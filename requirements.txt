@@ -1,0 +1,8 @@
+selenium==4.27.1
+webdriver-manager==4.0.2
+requests==2.32.3
+browser-cookie3==0.19.1
+beautifulsoup4==4.12.3
+numpy==1.26.4
+pandas==2.2.2
+TikTokApi==6.3.0
